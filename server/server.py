@@ -7,15 +7,14 @@ urls = (
 
 class index:
     def GET(self):
-        return "get Hello, arcelan world, master change"
-
+        return "get Hello, arcelan world xxx"
     def POST(self):
         """ Add new entry """
         return "post Hello, world"
 
     def PUT(self):
         """ Add new entry """
-        return "put Hello, meworld!"
+        return "put Hello, meng_yujing!"
 
     def DELETE(self):
         """ Add new entry """
@@ -31,7 +30,7 @@ class blog:
 
     def PUT(self):
         """ Add new entry """
-        return "put blog Hello, world!"
+        return "put blog Hello, meng_yujing!"
 
     def DELETE(self):
         """ Add new entry """
