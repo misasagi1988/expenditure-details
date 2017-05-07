@@ -10,7 +10,7 @@ class index:
         return "get Hello, arcelan world!, dev branch."
     def POST(self):
         """ Add new entry """
-        return "post Hello, world"
+        return "post Hello, world, dev branch."
 
     def PUT(self):
         """ Add new entry """
