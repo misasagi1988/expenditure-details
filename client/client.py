@@ -7,7 +7,7 @@ urls = (
 
 class index:
     def GET(self):
-        return "get Hello, world!"
+        return "get Hello, world! index page."
     def POST(self):
         """ Add new entry """
         return "post Hello, world!"
