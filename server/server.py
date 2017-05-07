@@ -15,7 +15,7 @@ class index:
 
     def PUT(self):
         """ Add new entry """
-        return "put Hello, meworld!"
+        return "put Hello, meng_yujing!"
 
     def DELETE(self):
         """ Add new entry """
@@ -31,7 +31,7 @@ class blog:
 
     def PUT(self):
         """ Add new entry """
-        return "put blog Hello, world!"
+        return "put blog Hello, meng_yujing!"
 
     def DELETE(self):
         """ Add new entry """
